@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vitor Gabriel 🖐️
+## Olá! Eu sou o Vitor 🖐️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGabrielSangaletti&show_icons=true&theme=dracula)
 
