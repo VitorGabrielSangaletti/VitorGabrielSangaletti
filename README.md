@@ -22,7 +22,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=Guilhermepoma&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.vercel.app?user=VitorGabrielSangaletti&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
