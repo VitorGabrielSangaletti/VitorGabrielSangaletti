@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vitor 🖐️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGabrielSangaletti&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 <div style="display: inline_block"><br>
