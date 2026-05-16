@@ -20,11 +20,11 @@ Desenvolvedor focado em Front-end e desenvolvimento de aplicações.
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorGabrielSangaletti&show_icons=true&theme=radical&cache_seconds=1800"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabrielSangaletti&layout=compact&theme=radical&cache_seconds=1800"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorGabrielSangaletti&show_icons=true&theme=radical"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGabrielSangaletti&layout=compact&theme=radical"/>
+</div>
 
 ---
 
