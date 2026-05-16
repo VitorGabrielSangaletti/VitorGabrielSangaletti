@@ -1,6 +1,5 @@
 #  Vitor
 
-Desenvolvedor focado em Front-end e desenvolvimento de aplicações.
 
 ---
 
